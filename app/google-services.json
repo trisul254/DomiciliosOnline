@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833881384167",
+    "firebase_url": "https://domicilios-7b045.firebaseio.com",
+    "project_id": "domicilios-7b045",
+    "storage_bucket": "domicilios-7b045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833881384167:android:a8d3bb6863ef062a",
+        "android_client_info": {
+          "package_name": "com.example.hector.domiciliosonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833881384167-vl9joiskgssq6cllm2m0rh23tm1lj5ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hector.domiciliosonline",
+            "certificate_hash": "2fad36893ec92b0c9d9b4812560ec4f03f9d3f99"
+          }
+        },
+        {
+          "client_id": "833881384167-q3ke3ikkskn7g78am2n2sab9vdup9ltn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFZjPTGf17ldyyKy6drKvFs2Hvkg-Iw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833881384167-q3ke3ikkskn7g78am2n2sab9vdup9ltn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
