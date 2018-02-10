@@ -25,7 +25,7 @@
             android:layout_height="wrap_content" />
 
         <TextView
-            android:text="PARTNER"
+            android:text="AFILIADO"
             android:layout_marginTop="20dp"
             android:textSize="16sp"
             android:textAlignment="center"
@@ -41,7 +41,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="20dp"
         android:layout_marginTop="20dp"
-        android:text="Looking For This App"
+        android:text="Haz parte de nuestra comunidad"
         android:textSize="12sp"
         android:textAlignment="center"
         android:textColor="@color/bottomText"
@@ -60,7 +60,7 @@
             android:id="@+id/btnSignIn"
             android:background="@drawable/btn_sign_in_background"
             android:textColor="@android:color/white"
-            android:text="SIGN IN"
+            android:text="INGRESAR"
             android:layout_marginRight="6dp"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -70,7 +70,7 @@
             android:id="@+id/btnRegister"
             android:background="@drawable/btn_register_background"
             android:textColor="@color/btnRegister"
-            android:text="REGISTER "
+            android:text="REGISTRARSE"
             android:layout_marginLeft="6dp"
             android:layout_width="0dp"
             android:layout_weight="1"

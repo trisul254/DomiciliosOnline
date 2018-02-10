@@ -2,4 +2,5 @@
     <string name="app_name">DomiciliosOnline</string>
     <string name="title_activity_welcome">Map</string>
     <string name="title_activity_prueba">Map</string>
+    <string name="google_direction_api">AIzaSyB-GeMXv4RUn4Thrf62H8sFLMKho-g_G1c</string>
 </resources>
