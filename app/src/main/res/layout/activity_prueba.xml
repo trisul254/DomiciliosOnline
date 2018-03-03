@@ -60,6 +60,7 @@
             <com.github.glomadrian.materialanimatedswitch.MaterialAnimatedSwitch
                 android:id="@+id/location_switch"
                 android:layout_width="0dp"
+                android:layout_marginTop="525dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="3"
                 app:ball_press_color="@android:color/white"
